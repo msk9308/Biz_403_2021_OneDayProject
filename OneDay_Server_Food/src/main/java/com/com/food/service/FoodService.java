@@ -9,7 +9,7 @@ public interface FoodService {
 	
 	public void insert(FoodVO foodVO);
 	public List<FoodDTO> selectAll();
-	public FoodDTO findById(String m_date);
+//	public FoodDTO findById(String f_fcode);
 	
 	
 	
